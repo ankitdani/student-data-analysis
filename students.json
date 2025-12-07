@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "hours_worked": 5.5,
+    "hours_studied": 3.0,
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "hours_worked": 7.0,
+    "hours_studied": 1.5,
+    "department": "Finance"
+  },
+  {
+    "id": 3,
+    "name": "Carol",
+    "hours_worked": 4.0,
+    "hours_studied": 4.5,
+    "department": "IT"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "hours_worked": 6.0,
+    "hours_studied": 2.0,
+    "department": "HR"
+  }
+]
